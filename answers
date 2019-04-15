@@ -1,0 +1,6 @@
+print f is called from <stdio.h>
+stdout -> printF
+print f makes a system call to the operating system
+
+Heap memory is used for variables that use malloc. Parameters passed to malloc is the size of the area to be allocated in bytes
+Free takes a pointer to allocated area of memory and deallocates the pointer for malloc
